@@ -1,8 +1,8 @@
 old_evcode;new_evcode;todo
    HIGH SURF ADVISORY;High Surf;
   FLASH FLOOD;Flash Flood;
-  TSTM WIND;High Wind;
-  TSTM WIND (G45);High Wind;
+  TSTM WIND;Thunderstorm Wind;
+  TSTM WIND (G45);Thunderstorm Wind;
  ?;;REMOVE
  AGRICULTURAL FREEZE;Frost_Freeze;
  APACHE COUNTY;;REMOVE
@@ -190,7 +190,7 @@ HEAVY SURF COASTAL FLOODING;Coastal Flood;
 HEAVY SURF/HIGH SURF;Coastal Flood;
 HEAVY SWELLS;Coastal Flood;
 HIGH;;REMOVE
-HIGH  WINDS;Marine High Wind;
+HIGH  WINDS;High Wind;
 HIGH SEAS;Coastal Flood;
 High Surf;Coastal Flood;
 HIGH SURF;Coastal Flood;
